@@ -1,0 +1,17 @@
+# 何栖 - 权重配置模板
+# 复制此文件并修改权重值即可自定义偏好
+
+school:
+  academic: 0.20
+  campus_env: 0.15
+  career: 0.20
+  student_life: 0.04
+
+city:
+  living_cost: 0.15
+  transport: 0.12
+  lifestyle: 0.08
+  climate: 0.03
+  development: 0.03
+
+school_vs_city_ratio: 0.60
